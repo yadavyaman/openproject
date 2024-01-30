@@ -19,7 +19,7 @@ OpenProject is a web-based project management software. Its key features are:
 More information and screenshots can be found on our [website](https://www.openproject.org).
 
 ## Installation
-##Test Changes
+## Test Changes
 
 If you want to run an instance of OpenProject in production (or for evaluation), refer to our
 in-depth [installation guides](https://www.openproject.org/download-and-installation/).
